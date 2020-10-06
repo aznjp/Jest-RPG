@@ -1,19 +1,22 @@
 {
-  "name": "jest-rpg",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aznjp/Jest-RPG.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aznjp/Jest-RPG/issues"
-  },
-  "homepage": "https://github.com/aznjp/Jest-RPG#readme"
+    "name": "jest-rpg",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aznjp/Jest-RPG.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aznjp/Jest-RPG/issues"
+    },
+    "homepage": "https://github.com/aznjp/Jest-RPG#readme",
+    "devDependencies": {
+        "jest": "^26.5.0"
+    }
 }
